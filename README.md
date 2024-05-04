@@ -1,7 +1,5 @@
 # Hi, I'm K1551NG3R! 👋
-
-I am a passionate Computer Security and Forensics graduand at Jaramogi Oginga Odinga University of Science and Technology.
-I believe tech was made for advancement and wellbeing of humanity. Thus a philanthropist who is willing to integrate tech into the non-profit sectors.
+Founder @ Wamumbi_Foundation | Philanthropist | Graduand- Class of 2024 | Computer Security & Forensics | Customer Support &Networking technician @ Netrunner_Limited | Currently learning App/Web development.
 <!--
 **Pharaoh-Hacks/Pharaoh-Hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
