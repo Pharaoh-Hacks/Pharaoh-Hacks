@@ -7,12 +7,12 @@ I believe tech was made for advancement and wellbeing of humanity. Thus a philan
 -->
 
 ## About Me
-I am currently a graduand at Jaramogi Oginga Odinga University of Science and Technology after pursuing a Bachelor of Science degree in Computer Security and Forensics.
-I am also a Networking Technician at Netrunner Limited
-I am the Founder of Wamumbi Foundation, a charity organization that aims to improve the lives of vulnerable children and youth in Kenya. 
-I organize and lead fundraising events, mentorship programs, and educational activities, impacting more than 1000 beneficiaries since 2019. 
-I am currently working on a web based volunteer management software. 
-I am passionate about teaching, researching, and writing on topics related to IT, social justice, health, and education. 
+I am currently a graduand at Jaramogi Oginga Odinga University of Science and Technology after pursuing a Bachelor of Science degree in Computer Security and Forensics.|
+I am also a Networking Technician at Netrunner Limited.| 
+I am the Founder of Wamumbi Foundation, a charity organization that aims to improve the lives of vulnerable children and youth in Kenya.
+I organize and lead fundraising events, mentorship programs, and educational activities, impacting more than 1000 beneficiaries since 2019. |
+I am currently working on a web based volunteer management software. |
+I am passionate about teaching, researching, and writing on topics related to IT, social justice, health, and education.|
 I have authored multiple poems and spoken word pieces.
 
 ## Projects
